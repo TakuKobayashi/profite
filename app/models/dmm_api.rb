@@ -19,6 +19,5 @@
 #  index_products_on_api_type  (api_type)
 #  index_products_on_price     (price)
 #
-
 class DmmApi < Product
 end
